@@ -1,3 +1,6 @@
+//  https://www.tutorialspoint.com/data_structures_algorithms/merge_sort_program_in_c.htm
+
+
 #include<stdio.h>
 
 int a[10];
